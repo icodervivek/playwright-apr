@@ -7,5 +7,6 @@
 
 2. Basic Syntax to write TestCases with Assertion
 
-    ![alt text](image.png)
-    ![alt text](image-1.png)
+    ![alt text](snaps/image.png)
+    <br/>
+    ![alt text](snaps/image-1.png)
